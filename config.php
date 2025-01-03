@@ -4,8 +4,8 @@
 // If you not add Ipinfo apiKey you can't get viewer Information properly
 
 $config = '{
-    "Token":"7824330991:AAFj5fqJQQl07V-xPBe3tvq28tZa2hzkYo8",
-    "Chat_Id":"985985980",
+    "Token":"",
+    "Chat_Id":"",
     "Ipinfo_apiKey":"c100de32679e",
 
     "Get_Result_Document":"off",
